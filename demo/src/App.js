@@ -1,6 +1,6 @@
 import React from "react";
 //import ResizePanel from "react-resize-panel";
-import ResizePanel from "../../src/ResizePanel";
+import ResizePanel from "../../src/FunctionalResizePanel";
 import style from './App.css';
 import classNames from 'classnames/bind';
 
